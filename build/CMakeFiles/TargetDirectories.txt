@@ -1,0 +1,3 @@
+/media/seif/ssd_workspace/odometry_prj2/build/CMakeFiles/rebuild_cache.dir
+/media/seif/ssd_workspace/odometry_prj2/build/CMakeFiles/mrpt_example1.dir
+/media/seif/ssd_workspace/odometry_prj2/build/CMakeFiles/edit_cache.dir
